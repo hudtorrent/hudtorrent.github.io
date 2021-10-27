@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Aulas"
-      href: aula_teste.html
+      href: aulas/aula_teste.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<torrenthudson@yahoo.com.br>
