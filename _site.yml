@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "My first website"
   left:
-    - text: "HomeTESTE"
+    - text: "Home"
       href: index.html
     - text: "Aulas"
       href: "aulas/aula_teste.html"
